@@ -1,0 +1,1 @@
+{"nombre": "Juan", "apellido": "Perez", "edad": 30, "ciudad": "Ciudad de Mexico", "hijos": ["Maria", "Pedro"], "trabajo": {"empresa": "ABC Corp", "cargo": "Desarrollador"}, "intereses": ["viajar", "leer", "caminar"]}
